@@ -1,4 +1,5 @@
 ### Hi there 👋
+**ochor/ochor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 #### 😄 연락 : ..
 - <h6>SNS</h6>
@@ -6,7 +7,6 @@
     <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/블로그-beige??style=for-the-badge&logo=Storyblok&logoColor=09B3AF"/></a>
      <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/노션-beige??style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
-**ochor/ochor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
