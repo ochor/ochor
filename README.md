@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 학습한 언어: ..
-  <img src="https://img.shields.io/badge/어도비-grey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/어도비-grey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/어도비-grey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/어도비-grey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/어도비-grey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/어도비-grey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
+- 😄 사용 언어: ..
+  <img src="https://img.shields.io/badge/포토샵-lightgrey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/일러스트레이터-lightgrey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/HTML5-lightgrey??style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-lightgrey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/블렌더-lightgrey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/JS-lightgrey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
 - ⚡ Fun fact: ...
