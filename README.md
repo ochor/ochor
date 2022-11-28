@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 사용 언어: ..
-  <img src="https://img.shields.io/badge/포토샵-lightgrey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/일러스트레이터-lightgrey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/HTML5-lightgrey??style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-lightgrey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/블렌더-lightgrey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/JS-lightgrey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/포토샵-beige??style=for-the-badge&logo=Adobe Photoshop&logoColor=31A8FF"/>
+  <img src="https://img.shields.io/badge/일러스트레이터-beige??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/HTML5-beige??style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-beige??style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/블렌더-beige??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/JS-beige??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
 - ⚡ Fun fact: ...
