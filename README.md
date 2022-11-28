@@ -12,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 학습한 언어: ..
   <img src="https://img.shields.io/badge/어도비-grey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/어도비-grey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/어도비-grey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/어도비-grey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/어도비-grey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/어도비-grey??style=for-the-badge&logo=Adobe&logoColor=FF0000"/>
 - ⚡ Fun fact: ...
