@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-<h3 style="line-height:20px;" 😄 사용 언어: ..</h3>
+####😄 사용 언어: ..
 - <h6>디자인 프로그램</h6>
     <img src="https://img.shields.io/badge/포토샵-beige??style=for-the-badge&logo=Adobe Photoshop&logoColor=31A8FF"/>
     <img src="https://img.shields.io/badge/일러스트레이터-beige??style=for-the-badge&logo=Adobe Illustrator&logoColor=FF9A00"/>
