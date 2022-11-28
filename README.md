@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 ### Hi there 👋
 **ochor/ochor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
