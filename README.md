@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=GD%20home&fontSize=40&animation=fadeIn)
 ### Hi there 👋
 안녕하세요, HGD의 공간에 오신 것을 환영합니다.
@@ -18,7 +19,7 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fochor%2Fochor&count_bg=%233DACC8&title_bg=%23131313&icon=azurepipelines.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
-
+</div>
 
 
 
