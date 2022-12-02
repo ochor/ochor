@@ -9,8 +9,6 @@
 ###### 편집 프로그램 <img src="https://img.shields.io/badge/HTML5-beige??style=for-the-badge&logo=HTML5&logoColor=E34F26"/>, <img src="https://img.shields.io/badge/CSS3-beige??style=for-the-badge&logo=CSS3&logoColor=1572B6"/>, <img src="https://img.shields.io/badge/JS-beige??style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fochor&count_bg=%233DACC8&title_bg=%23131313&icon=azurepipelines.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ochor)
 
@@ -19,7 +17,7 @@
 
 
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fochor%2Fochor&count_bg=%233DACC8&title_bg=%23131313&icon=azurepipelines.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
