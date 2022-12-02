@@ -5,9 +5,9 @@
 안녕하세요, HGD의 공간에 오신 것을 환영합니다.
 
 <div align="left">
-#### 😄 연락 : <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/인스타그램-beige??style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>, <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/블로그-beige??style=for-the-badge&logo=Storyblok&logoColor=09B3AF"/></a>, <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/노션-beige??style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
+  #### 😄 연락 : <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/인스타그램-beige??style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>, <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/블로그-beige??style=for-the-badge&logo=Storyblok&logoColor=09B3AF"/></a>, <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/노션-beige??style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
-  #### 😄 사용 언어: <h6>디자인 프로그램</h6> <img src="https://img.shields.io/badge/포토샵-beige??style=for-the-badge&logo=Adobe Photoshop&logoColor=31A8FF"/>, <img src="https://img.shields.io/badge/일러스트레이터-beige??style=for-the-badge&logo=Adobe Illustrator&logoColor=FF9A00"/>, <img src="https://img.shields.io/badge/블렌더-beige??style=for-the-badge&logo=Blender&logoColor=F5792A"/> <h6>편집 프로그램</h6> <img src="https://img.shields.io/badge/HTML5-beige??style=for-the-badge&logo=HTML5&logoColor=E34F26"/>, <img src="https://img.shields.io/badge/CSS3-beige??style=for-the-badge&logo=CSS3&logoColor=1572B6"/>, <img src="https://img.shields.io/badge/JS-beige??style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
+  #### 😄 사용 언어: <img src="https://img.shields.io/badge/포토샵-beige??style=for-the-badge&logo=Adobe Photoshop&logoColor=31A8FF"/>, <img src="https://img.shields.io/badge/일러스트레이터-beige??style=for-the-badge&logo=Adobe Illustrator&logoColor=FF9A00"/>, <img src="https://img.shields.io/badge/블렌더-beige??style=for-the-badge&logo=Blender&logoColor=F5792A"/> <img src="https://img.shields.io/badge/HTML5-beige??style=for-the-badge&logo=HTML5&logoColor=E34F26"/>, <img src="https://img.shields.io/badge/CSS3-beige??style=for-the-badge&logo=CSS3&logoColor=1572B6"/>, <img src="https://img.shields.io/badge/JS-beige??style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>
  </div>
 
 
