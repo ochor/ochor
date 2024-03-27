@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=GD%20home&fontSize=40&animation=fadeIn)
 
-  ### Hi there 👋 <--#의 갯수 = h숫자-->
+  ### Hi there 👋
 코린이 GD의 공간🤩
 
   #### 😄 연락 : <a href="#"><img src="https://img.shields.io/badge/노션-beige??style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
